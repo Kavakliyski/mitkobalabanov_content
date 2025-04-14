@@ -1,0 +1,36 @@
+{
+	"title": "film editor",
+	"description": "Graduated from National Academy of theater & arts, Bulgaria. Bachelor in film & TV editing.",
+	"description2": "",
+	"filmographyTitle": "selected filmography",
+	"sections": [
+		{
+			"title": "EDITOR",
+			"items": [
+				{ "title": "My Man", "details": "(TV Series) (ep 5_7_9_11)" },
+				{ "title": "POSTERITY (2025)", "details": "(Short Film) Sofia Film Fest - official selection" },
+				{ "title": "RASPERY SORBET (2025)", "details": "(Short Film) Completed" },
+				{ "title": "BREATHE (2021)", "details": "(Short Film) Sofia Film Fest - official selection\nIn The Palace Film Fest - official selection" },
+				{ "title": "FROM HERE TO HERE (2021)", "details": "(Short Film) Robinson Film Awards - Winner\nSofia Film Fest - official selection\nIn The Palace Film Fest - official selection\nGolden Rose Film Fest - official selection\nBulgarian Film Awards - nominee" },
+				{ "title": "HIDE&SEEK (2024)", "details": "(Short Film)" },
+				{ "title": "STOP THE CAR (2025)", "details": "(Short Film) in post-production" }
+			]
+		},
+		{
+			"title": "ASSISTANT EDITOR",
+			"items": [
+				{ "title": "Valley of love", "details": "(TV Movie) as assistant editor trainee" },
+				{ "title": "Everything for my son", "details": "(TV series) as first assistant editor" },
+				{ "title": "For Better or worse", "details": "(TV Movie) as assistant editor trainee" },
+				{ "title": "Sunnybeach S02", "details": "(TV Series) as first assistant editor" },
+				{ "title": "The War of the Letters", "details": "(TV Series) as first assistant editor" },
+				{ "title": "Brothers S04", "details": "(TV series) as first assistant editor" },
+				{ "title": "All inclusive S05", "details": "(TV series) as first assistant editor" },
+				{ "title": "The Cage S01 & S02", "details": "(TV series) as first assistant editor" },
+				{ "title": "Brothers S02;S03;S05", "details": "as post-production assistant\ntrailer editor" },
+				{ "title": "All inclusive S03&S04", "details": "as post-production assistant\ntrailer editor" },
+				{ "title": "WAVES", "details": "(TV series) Post-production supervisor" }
+			]
+		}
+	]
+}
