@@ -30,7 +30,13 @@
 				{
 					"title": "FROM HERE TO HERE",
 					"title2": "(2021)(Short Film)",
-					"details": "Robinson Film Awards - Winner\nSofia Film Fest - official selection\nIn The Palace Film Fest - official selection\nGolden Rose Film Fest - official selection\nBulgarian Film Awards - nominee"
+					"details": [
+						"Robinson Film Awards - Winner",
+						"Sofia Film Fest - official selection",
+						"In The Palace Film Fest - official selection",
+						"Golden Rose Film Fest - official selection",
+						"Bulgarian Film Awards - nominee"
+					]
 				},
 				{
 					"title": "HIDE&SEEK",
