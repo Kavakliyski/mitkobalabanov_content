@@ -52,8 +52,13 @@
 			]
 		},
 		{
-			"title": "ASSISTANT EDITOR",
+			"title": "POST-PRODUCTION",
 			"items": [
+				{
+					"title": "WAVES",
+					"title2": "(TV series)",
+					"details": "Post-production supervisor"
+				}
 				{
 					"title": "Valley of love",
 					"title2": "(TV Movie)",
@@ -97,18 +102,14 @@
 				{
 					"title": "Brothers S02;S03;S05",
 					"title2": "(TV series)",
-					"details": "as post-production assistant\ntrailer editor"
+					"details": "as post-production assistant | trailer editor"
 				},
 				{
 					"title": "All inclusive S03&S04",
 					"title2": "(TV series)",
-					"details": "as post-production assistant\ntrailer editor"
+					"details": "as post-production assistant | trailer editor"
 				},
-				{
-					"title": "WAVES",
-					"title2": "(TV series)",
-					"details": "Post-production supervisor"
-				}
+				
 			]
 		}
 	]
