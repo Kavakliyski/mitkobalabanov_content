@@ -1,116 +1,115 @@
 {
-	"title": "film editor",
-	"description": "Graduated from National Academy of theater & arts, Bulgaria.",
-	"description2": "Bachelor in film & TV editing.",
-	"description3": "Member of the Bulgarian Filmmaking Association.",
-	"filmographyTitle": "selected filmography",
-	"sections": [
-		{
-			"title": "EDITOR",
-			"items": [
-				{
-					"title": "My Man",
-					"title2": "(TV Series)",
-					"details": "(E05 | E07 | E09 | E11"
-				},
-				{
-					"title": "POSTERITY",
-					"title2": "(2025)(Short Film)",
-					"details": "Sofia Film Fest - official selection"
-				},
-				{
-					"title": "RASPERY SORBET",
-					"title2": "(2025)(Short Film)",
-					"details": "Completed"
-				},
-				{
-					"title": "BREATHE",
-					"title2": "(2021)(Short Film)",
-					"details": "Sofia Film Fest - official selection\nIn The Palace Film Fest - official selection"
-				},
-				{
-					"title": "FROM HERE TO HERE",
-					"title2": "(2021)(Short Film)",
-					"details": [
-						"Robinson Film Awards - Winner",
-						"Sofia Film Fest - official selection",
-						"In The Palace Film Fest - official selection",
-						"Golden Rose Film Fest - official selection",
-						"Bulgarian Film Awards - nominee"
-					]
-				},
-				{
-					"title": "HIDE&SEEK",
-					"title2": "(2024)(Short Film)",
-					"details": ""
-				},
-				{
-					"title": "STOP THE CAR",
-					"title2": "(2025)(Short Film)",
-					"details": "in post-production"
-				}
-			]
-		},
-		{
-			"title": "POST-PRODUCTION",
-			"items": [
-				{
-					"title": "WAVES",
-					"title2": "(TV series)",
-					"details": "Post-production supervisor"
-				}
-				{
-					"title": "Valley of love",
-					"title2": "(TV Movie)",
-					"details": "as assistant editor trainee"
-				},
-				{
-					"title": "Everything for my son",
-					"title2": "(TV series)",
-					"details": "as first assistant editor"
-				},
-				{
-					"title": "For Better or worse",
-					"title2": "(TV Movie)",
-					"details": "as assistant editor trainee"
-				},
-				{
-					"title": "Sunnybeach S02",
-					"title2": "(TV Series)",
-					"details": "as first assistant editor"
-				},
-				{
-					"title": "The War of the Letters",
-					"title2": "(TV Series)",
-					"details": "as first assistant editor"
-				},
-				{
-					"title": "Brothers S04",
-					"title2": "(TV series)",
-					"details": "as first assistant editor"
-				},
-				{
-					"title": "All inclusive S05",
-					"title2": "(TV series)",
-					"details": "as first assistant editor"
-				},
-				{
-					"title": "The Cage S01 | S02",
-					"title2": "(TV series)",
-					"details": "as first assistant editor"
-				},
-				{
-					"title": "Brothers S02 | S03 | S05",
-					"title2": "(TV series)",
-					"details": "as post-production assistant | trailer editor"
-				},
-				{
-					"title": "All inclusive S03 | S04",
-					"title2": "(TV series)",
-					"details": "as post-production assistant | trailer editor"
-				},
-				
-			]
-		}
-	]
+  "title": "film editor",
+  "description": "Graduated from National Academy of theater & arts, Bulgaria.",
+  "description2": "Bachelor in film & TV editing.",
+  "description3": "Member of the Bulgarian Filmmaking Association.",
+  "filmographyTitle": "selected filmography",
+  "sections": [
+    {
+      "title": "EDITOR",
+      "items": [
+        {
+          "title": "My Man",
+          "title2": "(TV Series)",
+          "details": "(E05 | E07 | E09 | E11)"
+        },
+        {
+          "title": "POSTERITY",
+          "title2": "(2025)(Short Film)",
+          "details": "Sofia Film Fest - official selection"
+        },
+        {
+          "title": "RASPERY SORBET",
+          "title2": "(2025)(Short Film)",
+          "details": "Completed"
+        },
+        {
+          "title": "BREATHE",
+          "title2": "(2021)(Short Film)",
+          "details": "Sofia Film Fest - official selection\nIn The Palace Film Fest - official selection"
+        },
+        {
+          "title": "FROM HERE TO HERE",
+          "title2": "(2021)(Short Film)",
+          "details": [
+            "Robinson Film Awards - Winner",
+            "Sofia Film Fest - official selection",
+            "In The Palace Film Fest - official selection",
+            "Golden Rose Film Fest - official selection",
+            "Bulgarian Film Awards - nominee"
+          ]
+        },
+        {
+          "title": "HIDE&SEEK",
+          "title2": "(2024)(Short Film)",
+          "details": ""
+        },
+        {
+          "title": "STOP THE CAR",
+          "title2": "(2025)(Short Film)",
+          "details": "in post-production"
+        }
+      ]
+    },
+    {
+      "title": "POST-PRODUCTION",
+      "items": [
+        {
+          "title": "WAVES",
+          "title2": "(TV series)",
+          "details": "Post-production supervisor"
+        },
+        {
+          "title": "Valley of love",
+          "title2": "(TV Movie)",
+          "details": "as assistant editor trainee"
+        },
+        {
+          "title": "Everything for my son",
+          "title2": "(TV series)",
+          "details": "as first assistant editor"
+        },
+        {
+          "title": "For Better or worse",
+          "title2": "(TV Movie)",
+          "details": "as assistant editor trainee"
+        },
+        {
+          "title": "Sunnybeach S02",
+          "title2": "(TV Series)",
+          "details": "as first assistant editor"
+        },
+        {
+          "title": "The War of the Letters",
+          "title2": "(TV Series)",
+          "details": "as first assistant editor"
+        },
+        {
+          "title": "Brothers S04",
+          "title2": "(TV series)",
+          "details": "as first assistant editor"
+        },
+        {
+          "title": "All inclusive S05",
+          "title2": "(TV series)",
+          "details": "as first assistant editor"
+        },
+        {
+          "title": "The Cage S01 | S02",
+          "title2": "(TV series)",
+          "details": "as first assistant editor"
+        },
+        {
+          "title": "Brothers S02 | S03 | S05",
+          "title2": "(TV series)",
+          "details": "as post-production assistant | trailer editor"
+        },
+        {
+          "title": "All inclusive S03 | S04",
+          "title2": "(TV series)",
+          "details": "as post-production assistant | trailer editor"
+        }
+      ]
+    }
+  ]
 }
